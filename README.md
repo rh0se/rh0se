@@ -4,9 +4,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on building my technical skills on Data Science
+- 🔭 I’m currently working on building my technical skills on Data Science and Software Engineering
 - 🌱 I’m currently learning Data Science online
-- 👯 I’m looking to collaborate on Data Science Projects
+- 👯 I’m looking to collaborate on Data Science and Software Engineering Projects
 - 🤔 I’m looking for help with breaking down technical concepts
 - 💬 Ask me about my learning journey
 - 📫 How to reach me: https://twitter.com/NerdySimi
